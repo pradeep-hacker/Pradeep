@@ -1,3 +1,4 @@
 #printing HELLO WORLD
 To create a hello world project in github to get the knowledge of how we create it 
-print(hello world)
+print(hello_world)
+#hello_world will be the output
